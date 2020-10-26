@@ -1,0 +1,22 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "moment": "^2.24.0",
+    "natural": "^0.6.3",
+    "nlcst-to-string": "^2.0.4",
+    "path": "^0.12.7",
+    "retext": "^7.0.1",
+    "stemmer": "^1.0.5",
+    "unist-util-visit": "^2.0.2"
+  }
+}
